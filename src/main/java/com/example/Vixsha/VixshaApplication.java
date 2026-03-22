@@ -9,5 +9,5 @@ public class VixshaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VixshaApplication.class, args);
 	}
-
 }
+
